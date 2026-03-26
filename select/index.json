@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【MV】いくぜ！ポジティブ議長／いくぜ！【オリジナル曲】",
+  "base_artist": "いくぜ!",
+  "createdAt": "2026-03-26T11:25:21.966197Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いくぜ!ポジティブ議長",
+      "artist": "いくぜ!",
+      "has_synced": false,
+      "path": "select/pl_01_いくぜ!ポジティブ議長_いくぜ!.txt"
+    }
+  ]
+}
